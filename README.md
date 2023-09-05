@@ -1,3 +1,5 @@
-# Guess-My-Number-App
+# Java Script
 
-https://zippy-bublanina-853190.netlify.app/
+## Guess-My-Number-App
+
+## URL: https://zippy-bublanina-853190.netlify.app/
